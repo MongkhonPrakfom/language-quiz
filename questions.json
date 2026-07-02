@@ -1,0 +1,53 @@
+{
+  "th": {
+    "label": "ภาษาไทย",
+    "flag": "🇹🇭",
+    "font": "'Noto Sans Thai', sans-serif",
+    "questions": [
+      { "q": "\"สวัสดี\" แปลว่าอะไร?", "options": ["Hello", "Goodbye", "Thank you", "Sorry"], "answer": 0 },
+      { "q": "\"ขอบคุณ\" แปลว่าอะไร?", "options": ["Please", "Thank you", "Yes", "No"], "answer": 1 },
+      { "q": "\"น้ำ\" แปลว่าอะไร?", "options": ["Fire", "Water", "Rice", "Air"], "answer": 1 },
+      { "q": "\"อร่อย\" แปลว่าอะไร?", "options": ["Delicious", "Expensive", "Cheap", "Beautiful"], "answer": 0 },
+      { "q": "\"บ้าน\" แปลว่าอะไร?", "options": ["School", "House", "Car", "Book"], "answer": 1 },
+      { "q": "\"ไม่\" แปลว่าอะไร?", "options": ["Yes", "No", "Maybe", "Please"], "answer": 1 },
+      { "q": "\"กิน\" แปลว่าอะไร?", "options": ["Eat", "Sleep", "Walk", "Run"], "answer": 0 },
+      { "q": "\"หนังสือ\" แปลว่าอะไร?", "options": ["Book", "Pen", "Table", "Chair"], "answer": 0 },
+      { "q": "\"ร้อน\" แปลว่าอะไร?", "options": ["Cold", "Hot", "Wet", "Dry"], "answer": 1 },
+      { "q": "\"เพื่อน\" แปลว่าอะไร?", "options": ["Teacher", "Friend", "Family", "Stranger"], "answer": 1 }
+    ]
+  },
+  "zh": {
+    "label": "中文",
+    "flag": "🇨🇳",
+    "font": "'Noto Sans SC', sans-serif",
+    "questions": [
+      { "q": "\"你好\" 是什么意思?", "options": ["Goodbye", "Hello", "Thanks", "Sorry"], "answer": 1 },
+      { "q": "\"谢谢\" 是什么意思?", "options": ["Please", "Thank you", "Yes", "Water"], "answer": 1 },
+      { "q": "\"水\" 是什么意思?", "options": ["Fire", "Water", "Rice", "Tea"], "answer": 1 },
+      { "q": "\"好吃\" 是什么意思?", "options": ["Delicious", "Boring", "Cheap", "Fast"], "answer": 0 },
+      { "q": "\"家\" 是什么意思?", "options": ["School", "Home", "Car", "City"], "answer": 1 },
+      { "q": "\"不\" 是什么意思?", "options": ["Yes", "No", "Maybe", "Please"], "answer": 1 },
+      { "q": "\"吃\" 是什么意思?", "options": ["Eat", "Sleep", "Walk", "Run"], "answer": 0 },
+      { "q": "\"书\" 是什么意思?", "options": ["Book", "Pen", "Table", "Chair"], "answer": 0 },
+      { "q": "\"热\" 是什么意思?", "options": ["Cold", "Hot", "Wet", "Dry"], "answer": 1 },
+      { "q": "\"朋友\" 是什么意思?", "options": ["Teacher", "Friend", "Family", "Stranger"], "answer": 1 }
+    ]
+  },
+  "en": {
+    "label": "English",
+    "flag": "🇬🇧",
+    "font": "'Poppins', sans-serif",
+    "questions": [
+      { "q": "Choose the synonym of \"Happy\":", "options": ["Sad", "Joyful", "Angry", "Tired"], "answer": 1 },
+      { "q": "What is the plural of \"Child\"?", "options": ["Childs", "Children", "Childes", "Child"], "answer": 1 },
+      { "q": "Choose the antonym of \"Big\":", "options": ["Large", "Huge", "Small", "Tall"], "answer": 2 },
+      { "q": "Which word means \"very tired\"?", "options": ["Exhausted", "Excited", "Elegant", "Eager"], "answer": 0 },
+      { "q": "Complete: \"She ___ to school every day.\"", "options": ["go", "goes", "going", "gone"], "answer": 1 },
+      { "q": "Choose the synonym of \"Fast\":", "options": ["Slow", "Quick", "Lazy", "Weak"], "answer": 1 },
+      { "q": "What is the past tense of \"Go\"?", "options": ["Goed", "Went", "Gone", "Going"], "answer": 1 },
+      { "q": "Choose the correct article: \"___ apple a day keeps the doctor away.\"", "options": ["A", "An", "The", "No article"], "answer": 1 },
+      { "q": "Which word is a noun?", "options": ["Run", "Quickly", "Happiness", "Blue"], "answer": 2 },
+      { "q": "Complete: \"They ___ playing football now.\"", "options": ["is", "are", "am", "be"], "answer": 1 }
+    ]
+  }
+}
