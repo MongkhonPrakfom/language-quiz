@@ -650,6 +650,8 @@ input {
   justify-content: center;
   gap: 2px;
   font-family: var(--font-display);
+  flex-direction:column;
+  text-align:center;
 }
 
 #scoreValue {
